@@ -1,15 +1,3 @@
-# Amazon EC2  
-
-### EC2 IP Address:  
-`18.219.76.225`  
-
-### Connect via SSH:  
-`ssh -i "csc667.pem" ec2-user@ec2-18-219-76-225.us-east-2.compute.amazonaws.com`  
-
-<br>
-<br>
-<br>
-  
 # Running Application on EC2 (Use Amazon Linux 2)  
 ### Install Docker/Git/Docker-Compose on EC2  
 `sudo su -`  
